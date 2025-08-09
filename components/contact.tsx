@@ -22,7 +22,7 @@ const Contact = () => {
     {
       icon: Github,
       label: 'GitHub',
-      href: 'https://github.com/pravav-dev', // Placeholder GitHub link
+      href: 'https://github.com/pranav-dev', // Placeholder GitHub link
       color: 'hover:text-gray-800 dark:hover:text-gray-200'
     },
     {
@@ -221,7 +221,7 @@ const handleSubmit = async (e: React.FormEvent) => {
                   Download my resume to learn more about my academic background and skills.
                 </p>
                 <Button size="lg" className="group w-full" asChild>
-                  <a href="/pravav-resume.pdf" download="Pravav_Resume.pdf">
+                  <a href="/pranav-resume.pdf" download="pranav_Resume.pdf">
                     <Download className="mr-2 h-4 w-4 group-hover:animate-bounce" />
                     Download Resume
                   </a>

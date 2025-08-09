@@ -58,7 +58,7 @@ const Header = () => {
             className="text-2xl font-bold text-primary cursor-pointer"
             onClick={() => scrollToSection('#home')}
           >
-            Pravav
+            pranav
           </motion.div>
 
           {/* Desktop Navigation */}

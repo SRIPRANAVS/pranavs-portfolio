@@ -26,7 +26,7 @@ const Hero = () => {
           >
             <h1 className="text-5xl md:text-7xl font-bold mb-4">
               <span className="bg-gradient-to-r from-primary to-blue-600 bg-clip-text text-transparent">
-                Pravav
+                pranav
               </span>
             </h1>
             
@@ -61,7 +61,7 @@ const Hero = () => {
             </Button>
             
             <Button size="lg" variant="outline" className="group" asChild>
-              <a href="/pravav-resume.pdf" download="Pravav_Resume.pdf">
+              <a href="/pranav-resume.pdf" download="pranav_Resume.pdf">
                 <Download className="mr-2 h-4 w-4 group-hover:animate-bounce" />
                 Download Resume
               </a>

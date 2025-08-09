@@ -20,7 +20,7 @@ const Footer = () => {
             <Heart className="h-4 w-4 text-red-500 animate-pulse" />
             <span className="text-muted-foreground">and</span>
             <Code className="h-4 w-4 text-blue-500" />
-            <span className="text-muted-foreground">by Pravav</span>
+            <span className="text-muted-foreground">by pranav</span>
           </div>
           
           <div className="flex items-center justify-center gap-2 mb-4 text-sm text-muted-foreground">
@@ -29,7 +29,7 @@ const Footer = () => {
           </div>
           
           <p className="text-muted-foreground text-sm">
-            © {currentYear} Pravav. All rights reserved.
+            © {currentYear} pranav. All rights reserved.
           </p>
           
           <div className="mt-4 text-xs text-muted-foreground">

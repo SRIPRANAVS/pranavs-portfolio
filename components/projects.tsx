@@ -12,9 +12,9 @@ const Projects = () => {
       id: 1,
       name: 'Personal Portfolio Website',
       description: 'My very first web project, built to showcase my learning journey in HTML, CSS, and JavaScript.',
-      image: '/placeholder.svg?height=200&width=300&text=Pravav+Portfolio',
+      image: '/personal-portfolio.png', // Use public folder or actual image path
       tech: ['HTML', 'CSS', 'JavaScript', 'Tailwind CSS'],
-      github: 'https://github.com/pravav-dev/my-portfolio', // Placeholder GitHub link
+      github: 'https://github.com/SRIPRANAVS/pranavs-portfolio', // Placeholder GitHub link
       demo: null, // No live demo yet
       status: 'completed'
     },

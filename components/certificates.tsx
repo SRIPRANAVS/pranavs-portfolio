@@ -8,11 +8,12 @@ import { Button } from '@/components/ui/button'
 const Certificates = () => {
   const certificates = [
   {
-    title: 'Python Full Stack',
+   title: 'Python Full Stack',
     platform: 'EduSkills Academy',
     date: 'June 8, 2025',
-    link: '/certificates/python-full-stack.png', // Use public folder or actual image path
+    link: '/certificates/p.jpg', // Works now
     downloadLink: null,
+
   },
   {
     title: 'AWS Cloud Practitioner Essentials',
